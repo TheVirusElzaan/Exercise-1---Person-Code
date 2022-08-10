@@ -1,4 +1,5 @@
 #include <string>
+#include <integer>
 
 using namespace std;
 
